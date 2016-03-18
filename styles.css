@@ -1,3 +1,30 @@
-/* modify h1 tag */h1{ font-family: monospace; /* set the font to be monospace */ color:orange; /* set the font color to be orange*/ margin-left: 20px; /* set the left margin to be 20px */}
-/* modify heading through body tag */body{ font-family: sans-serif; /* set the font to be sans-serif */ color:green /* set the font color to be green*/}
-/* modify heading through html tag */html{ background: #C2EBFF;}
+ body {
+ 	background: black;
+ 	color:white;
+ }
+
+ a{
+ 	color:gray;
+ 	 	text-decoration: none;
+ }
+
+ a:hover{
+ 	color:black;
+ 	background:white;
+
+ }
+ .greenlink:hover{
+ 	color:green;
+ 	background:gray;
+ }
+
+h1{
+	 	font-family:"Times New Roman" serif;
+	 	font-size: 24pt
+}
+.indent{
+	margin-left: 10px;
+}
+.gap-below {
+	margin-bottom: 25px;
+}
