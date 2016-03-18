@@ -1,0 +1,3 @@
+/* modify h1 tag */h1{ font-family: monospace; /* set the font to be monospace */ color:orange; /* set the font color to be orange*/ margin-left: 20px; /* set the left margin to be 20px */}
+/* modify heading through body tag */body{ font-family: sans-serif; /* set the font to be sans-serif */ color:green /* set the font color to be green*/}
+/* modify heading through html tag */html{ background: #C2EBFF;}

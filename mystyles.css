@@ -1,0 +1,7 @@
+
+/* Assignment, Week 2: change heading text in 3 ways; */
+h1{
+	color: purple; /* amake text itself purple */
+	background-color: black; /* make background black, just for the text */
+	font-family:monospace; /* make text look like courier */
+}
